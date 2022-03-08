@@ -2,12 +2,12 @@
 
 <p>Um aplicativo que recebe o CEP e mostra o logradouro, <br> localidade, UF e DDD. </p>  
 Ele foi desenvolvido inteiramente View Code e está <br> conectado com a api Via Cep (https://viacep.com.br). </p>  
-<br> <br> 
+<br>  
 
 
 <div > 
 
-<img height="802" width="815.51" src="https://spotty-grenadilla-d26.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61dbf3be-18e4-4e7c-900c-01000fa70c3c%2FUntitled.png?table=block&id=94900352-7a46-4565-b4d3-d01a25662d9e&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=2000&userId=&cache=v2">
+<img src="https://spotty-grenadilla-d26.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc6ccb567-bc47-4ce4-8e73-6b89ed6c42e5%2FUntitled.png?table=block&id=32d190c6-d0cb-4571-a786-a42e14edff3c&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=2000&userId=&cache=v2">
 
 </div>
   
