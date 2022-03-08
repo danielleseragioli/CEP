@@ -42,7 +42,7 @@
 		012B92D727D781500012C5BC = {
 			isa = PBXGroup;
 			children = (
-				012B92E227D781500012C5BC /* CEP */,
+				012B92E227D781500012C5BC /* CEPproject */,
 				012B92E127D781500012C5BC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		012B92E227D781500012C5BC /* CEP */ = {
+		012B92E227D781500012C5BC /* CEPproject */ = {
 			isa = PBXGroup;
 			children = (
 				012B92E327D781500012C5BC /* AppDelegate.swift */,
@@ -66,7 +66,7 @@
 				012B92F827D7820F0012C5BC /* View */,
 				012B92F727D781F10012C5BC /* ViewModel */,
 			);
-			path = CEP;
+			path = CEPproject;
 			sourceTree = "<group>";
 		};
 		012B92F727D781F10012C5BC /* ViewModel */ = {
